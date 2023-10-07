@@ -64,17 +64,17 @@
             ],
             [
                 [
-                    "NormalMap",
+                    "Diffuse",
                     ".dds",
                     "b90fee30"
                 ],
                 [
-                    "Diffuse",
+                    "LightMap",
                     ".dds",
                     "7f5e1d20"
                 ],
                 [
-                    "LightMap",
+                    "MetalMap",
                     ".dds",
                     "b0e08915"
                 ],

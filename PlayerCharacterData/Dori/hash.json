@@ -79,17 +79,17 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
+                    "Diffuse",
                     ".dds",
                     "2021c2b9"
                 ],
                 [
-                    "Diffuse",
+                    "LightMap",
                     ".dds",
                     "4e3376db"
                 ],
                 [
-                    "LightMap",
+                    "Shadow",
                     ".dds",
                     "380a1467"
                 ]
