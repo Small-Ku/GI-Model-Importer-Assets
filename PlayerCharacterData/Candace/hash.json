@@ -103,17 +103,17 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
+                    "Diffuse",
                     ".dds",
                     "01eb6d46"
                 ],
                 [
-                    "Diffuse",
+                    "LightMap",
                     ".dds",
                     "000052-ps-t1"
                 ],
                 [
-                    "LightMap",
+                    "Shadow",
                     ".dds",
                     "bf9fccca"
                 ],
